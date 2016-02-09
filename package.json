@@ -8,9 +8,7 @@
   "scripts": {
     "postversion": "git push && git push --tags && npm publish --access=public"
   },
-  "dependencies": {
-    "@f/slice": "^1.1.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "^4.2.2"
   }
