@@ -2,7 +2,7 @@
   "name": "@f/upon",
   "description": "Run a function upon some arguments",
   "repository": "git://github.com/micro-js/upon.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
